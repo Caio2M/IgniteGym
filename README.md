@@ -1,6 +1,6 @@
 # IgniteGym
 
-É uma aplicação para academia onde podemos criar conta, fazer login, editar perfil, ver exercícios, marcar exercício como concluído. Nessa aplicação foi utilizado o React Native.
+Uma aplicação para academia onde podemos criar conta, fazer login, editar perfil, ver exercícios, marcar exercício como concluído. Nessa aplicação foi utilizado o React Native.
 
 
 ## Screenshots
